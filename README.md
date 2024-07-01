@@ -1,12 +1,11 @@
-Usage
-To use this program:
+USAGE
+TO USE THIS PROGRAM:
 
 Clone the Repository: Clone this repository to your local machine.
 
 Open index.html in a Browser: Since this program uses prompt and console.log, it's best to run it in an environment that supports JavaScript execution, such as a web browser console or a Node.js environment.
 
-
-Student Grade Calculator
+STUDENT GRADE CALCULATOR
 
 
 This JavaScript program allows you to calculate a student's grade based on their marks input. It defines two functions: one for calculating the grade (calculateGrade) and another for generating the grade based on user input (studentGradeGenerator).
@@ -25,7 +24,7 @@ The studentGradeGenerator function prompts the user to enter a student's marks (
 
 If the entered marks are valid (a number between 0 and 100), it displays the corresponding grade. Otherwise, it informs the user that the input is invalid.
 
-Net Salary Calculator
+NET SALARY CALCULATOR
 
 
 This JavaScript program calculates the net salary of an employee based on their basic salary and benefits. It utilizes predefined rates for deductions such as KRA, NHIF, and NSSF.
@@ -39,7 +38,7 @@ NSSF Rate: 6% of the gross salary
 netSalaryCalculator Function: Prompts the user to input the employee's basic salary and benefits. It validates the input and calculates and displays the gross salary, deductions (PAYE, NHIF, NSSF), and net salary.
 
 
-Speed Detector
+SPEED DETECTOR
 
 
 This JavaScript program determines if a vehicle's speed exceeds the speed limit and calculates demerit points accordingly. It also checks if the demerit points exceed a threshold that could lead to license suspension.
