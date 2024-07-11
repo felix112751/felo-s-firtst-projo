@@ -15,6 +15,6 @@ function grading(marks) {
     }
   }
   
-  console.log(grading(120));
+  console.log(grading(100));
 
   grading()

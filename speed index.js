@@ -6,7 +6,7 @@ function speedDetector(speed) {
   
 
     //getting the demerit points and converting it to the next nearest whole number
-    
+
     const speedLimit = 70;
     const demeritPoints = Math.ceil((speed - speedLimit) / 5); 
 
@@ -21,6 +21,6 @@ function speedDetector(speed) {
       console.log(Points: ${demeritPoints});
     }
   }
-  console.log(speedDetector(120));
+  console.log(speedDetector(100));
 
   speedDetector()
